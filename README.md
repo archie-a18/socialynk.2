@@ -2,6 +2,7 @@
 <p align="center">
 </p>
   
+Socialynk is a full-stack social media platform built with the MERN stack, Socket.io, and JWT authentication, offering an experience similar to Facebook. It supports real-time messaging, posts, likes, comments, friend requests, and much more.
   
 ## Getting started:
   To get started with the project, you will need to follow these steps:
@@ -34,15 +35,16 @@
 ![DialogFlowApi](https://img.shields.io/badge/DialogFlowApi-010101?&style=for-the-badge&logo=DialogFlowApi&logoColor=white)
 
 ## 🚀 Features
-- Log in and sign up page. 
-- Offers text chatting, audio, and video calls.
-- Users can choose whether to enable or disable their mic or camera
-- Users can send friend requests to each other.
-- Users can join private rooms and hangout together
-- Users can join these rooms with either only audio or both audio and video enabled.
-- Users can also share their screens in private rooms, enabling two-way multistreaming. This feature helps gamers to live stream their games like pubG, GTA, etc.
-- User can play games like 2048 and memory game
-- In-built chatbot, which offers text-to-speech and vice versa, suggests Spotify playlists, looks up gaming facts and rules, and cracks jokes.
+- User Authentication: Secure login & signup with JWT authentication.
+- Real-Time Chat: Instant messaging using Socket.io.
+Post System: Users can create, like, comment, and share posts.
+Friend Requests: Send, accept, and reject friend requests.
+Profile Customization: Users can update profile pictures and bio.
+Notifications: Real-time notifications for friend requests, messages, and post interactions.
+Privacy Controls: Users can control post visibility.
+Media Sharing: Upload and share images or videos in posts.
+Live Updates: Instant UI updates using WebSockets.
+Responsive UI: Optimized for both mobile and desktop.
  
 
 ## Contributing: 
