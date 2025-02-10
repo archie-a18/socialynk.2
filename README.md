@@ -37,14 +37,14 @@ Socialynk is a full-stack social media platform built with the MERN stack, Socke
 ## 🚀 Features
 - User Authentication: Secure login & signup with JWT authentication.
 - Real-Time Chat: Instant messaging using Socket.io.
-Post System: Users can create, like, comment, and share posts.
-Friend Requests: Send, accept, and reject friend requests.
-Profile Customization: Users can update profile pictures and bio.
-Notifications: Real-time notifications for friend requests, messages, and post interactions.
-Privacy Controls: Users can control post visibility.
-Media Sharing: Upload and share images or videos in posts.
-Live Updates: Instant UI updates using WebSockets.
-Responsive UI: Optimized for both mobile and desktop.
+- Post System: Users can create, like, comment, and share posts.
+- Friend Requests: Send, accept, and reject friend requests.
+- Profile Customization: Users can update profile pictures and bio.
+- Notifications: Real-time notifications for friend requests, messages, and post interactions.
+- Privacy Controls: Users can control post visibility.
+- Media Sharing: Upload and share images or videos in posts.
+- Live Updates: Instant UI updates using WebSockets.
+- Responsive UI: Optimized for both mobile and desktop.
  
 
 ## Contributing: 
