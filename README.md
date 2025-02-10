@@ -13,7 +13,7 @@ Socialynk is a full-stack social media platform built with the MERN stack, Socke
   4. Start the games server separately in parallel terminal: cd Games -> cd 2048-animated -> npm i -> npm start
   5. Start another game server in parallel terminal: cd Games -> cd memory-game -> npm i -> npm start
 
-## 🖥️ Tech Stack
+## 🛠 Tech Stack
 *Frontend:*
 
 ![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
