@@ -1,4 +1,4 @@
-<h1 align="center">Playtime</h1>
+<h1 align="center">Socialynk - A Full-Featured Social Media Platform</h1>
 <p align="center">
 </p>
   
